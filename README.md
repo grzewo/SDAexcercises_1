@@ -8,7 +8,7 @@ TODOs for GIT:
 TODOS for CONDA:
 1. Download conda https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html
 2. Using Git bash check if it works
-3. Create environment for excercises (conda create -n myenv)
+3. Create environment for excercises (conda create -n myenv python=3.8)
 4. Activate it and check version of python (python --version)
 
 
