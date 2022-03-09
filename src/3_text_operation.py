@@ -128,7 +128,7 @@ def task14():
     """
     Function that finds the string similarity between two given strings. Here string similarity is defined as follows:
     1. Find shorter string
-    2. Iterating through shrorter string check if there is such a letter in longer string (ignore case with multiple 
+    2. Iterating through shrorter string check if there is such a letter in longer string (ignore case with multiple
     same letter in one string)
     3. Ratio between number found duplicates and length of longer string is ration
     Print it as percent
